@@ -31,7 +31,8 @@ An internet networking protocol and bandwidth routing algorithm that is <!-- .el
 
 ### Speed
 
-Note: We’ve all experienced the network delays, outages and throttling that go hand in hand with current ISPs.  Skywire’s protocol is based on software-defined networking, which will make the outdated and inefficient  “hot-potato” packet routing a thing of the past.    Skywire supports channel bonding which provides unmatched speed and reliability. The ability to connect  to multiple nodes at once drastically increases throughput and redundancy, democratizing previously  difficult use cases.
+Note: 
+We've all experienced the network delays, outages and throttling that go hand in hand with current ISPs. Skywire's protocol is based on software-defined networking, which will make the outdated and inefficient “hot-potato” packet routing a thing of the past.  Skywire supports channel bonding which provides unmatched speed and reliability. The ability to connect to multiple nodes at once drastically increases throughput and redundancy, democratizing previously difficult use cases.
 
 ---
 <!-- .slide: data-background="../../img/privacy.svg" data-background-size="30%" data-background-position="10% 50%" -->
@@ -49,7 +50,8 @@ Note: With default end-to-end encryption, Skywire ensures that all traffic is pr
 
 ### Security
 
-Note: Today, internet users have no say in how ISPs operate. Skywire gives this decision making power back to  the community in the form of a web-of-trust system. The consensus model allows nodes to be cut off if  deemed malicious, or strengthened if considered trustworthy through collective community agreement.  By making sure everyone has their say, Skywire becomes immune to exploitation, manipulation, and  attack, and safer for all.
+Note: 
+Today internet users have no say in how ISPs operate. Skywire gives this decision making power back to the community in the form of a web-of-trust system. The consensus model allows nodes to be cut off if deemed malicious, or strengthened if considered trustworthy through collective community agreement. By making sure everyone has their say, Skywire becomes immune to exploitation, manipulation, and  attack, and safer for all.
 
 ---
 <!-- .slide: data-background="../../img/ecosystem.svg" data-background-size="30%" data-background-position="10% 50%" -->
@@ -59,7 +61,8 @@ Note: Today, internet users have no say in how ISPs operate. Skywire gives this 
 ### Self-sustaining 
 ### Ecosystem
 
-Note: The backbone of Skywire will be the community itself. By providing Skycoin and Coin Hour rewards to  node operators, we offer incentives for people to contribute to the network and in turn, they’ll have Coin  Hours to use for resources and applications on the network. The more the network is used, the stronger,  faster and more robust it becomes, creating a closed-loop, self-sustaining economy.
+Note: 
+The backbone of Skywire will be the community itself. By providing Skycoin and Coin Hour rewards to  node operators, we offer incentives for people to contribute to the network and in turn, they'll have Coin  Hours to use for resources and applications on the network. The more the network is used, the stronger, faster and more robust it becomes, creating a closed-loop, self-sustaining economy.
 
 ---
 <!-- .slide: data-background="../../img/internet.svg" data-background-size="30%" data-background-position="10% 50%" -->
@@ -69,7 +72,8 @@ Note: The backbone of Skywire will be the community itself. By providing Skycoin
 ### Foundation of a
 ### New Internet
 
-Note: Skywire lays the foundation for distributed bandwidth, storage, and computation essential to the new  peer-to-peer internet. In the future, this holy trinity of digital commodities will be affordable and easily  accessible to the world through Skywire. And in the not-too-distant future Skywire combined with the  ubiquity of Skywire Miners will provide the nodes to efficiently decentralize the limitless number of  blockchain applications that will run on Skycoin’s Fiber architecture.
+Note: 
+Skywire lays the foundation for distributed bandwidth, storage, and computation essential to the new peer-to-peer internet. In the future, this holy trinity of digital commodities will be affordable and easily accessible to the world through Skywire. And in the not-too-distant future Skywire combined with the  ubiquity of Skywire Miners will provide the nodes to efficiently decentralize the limitless number of blockchain applications that will run on Skycoin's Fiber architecture.
 
 ---
 
