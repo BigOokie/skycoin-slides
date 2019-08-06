@@ -1,7 +1,7 @@
-<!-- .slide: id="Skycoin" data-background="../../img/skycoin-logos/Skycoin-Cloud-BW-Vertical@2x.png" data-background-size="70%" data-background-repeat="no-repeat" -->
+<!-- .slide: data-background="../img/skycoin-logos/Skycoin-Cloud-BW-Vertical@2x.png" data-background-size="70%" data-background-repeat="no-repeat" -->
 
 ---
-<!-- .slide: id="SkycoinAbout" data-background="../../img/skycoin-logos/Skycoin-Cloud-BW-Horizontal@1x.png" data-background-size="10%" data-background-position="0% 100%" -->
+<!-- .slide: data-background="../img/skycoin-logos/Skycoin-Cloud-BW-Horizontal@1x.png" data-background-size="10%" data-background-position="0% 100%" -->
 # Skycoin
 ## How to find us
 
@@ -14,7 +14,7 @@
 ||||
 
 ---
-<!-- .slide: id="Gallery" data-background="../../img/skycoin-logos/Skycoin-Cloud-BW-Horizontal@1x.png" data-background-size="10%" data-background-position="0% 100%" -->
+<!-- .slide: data-background="../img/skycoin-logos/Skycoin-Cloud-BW-Horizontal@1x.png" data-background-size="10%" data-background-position="0% 100%" -->
 # Skycoin
 ## Slide Gallery
 
@@ -23,7 +23,7 @@
 [Technical](#/Technical)
 
 ---
-<!-- .slide: id="Consumer" data-background="../../img/skycoin-logos/Skycoin-Cloud-BW-Horizontal@1x.png" data-background-size="10%" data-background-position="0% 100%" -->
+<!-- .slide: id="Consumer" data-background="../img/skycoin-logos/Skycoin-Cloud-BW-Horizontal@1x.png" data-background-size="10%" data-background-position="0% 100%" -->
 # Consumer Slides
 [Skycoin Project Overview](skycoin-slides/consumer/skycoin.project.overview.html)
 
@@ -34,6 +34,6 @@
 [CX](skycoin-slides/consumer/skycoin.cx.html)
 
 ---
-<!-- .slide: id="Technical" data-background="../../img/skycoin-logos/Skycoin-Cloud-BW-Horizontal@1x.png" data-background-size="10%" data-background-position="0% 100%" -->
+<!-- .slide: id="Technical" data-background="../img/skycoin-logos/Skycoin-Cloud-BW-Horizontal@1x.png" data-background-size="10%" data-background-position="0% 100%" -->
 # Technical Slides
 [Skycoin Client Libraries](skycoin-slides/technical/skycoin.libs.html)
