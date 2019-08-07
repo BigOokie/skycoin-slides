@@ -1,7 +1,7 @@
-<!-- .slide: data-background="img/skycoin-logos/Skycoin-Cloud-BW-Vertical@2x.png" data-background-size="70%" data-background-repeat="no-repeat" -->
+<!-- .slide: id="Skycoin" data-background="img/skycoin-logos/Skycoin-Cloud-BW-Vertical@2x.png" data-background-size="70%" data-background-repeat="no-repeat" -->
 
 ---
-<!-- .slide: data-background="img/skycoin-logos/Skycoin-Cloud-BW-Horizontal@1x.png" data-background-size="10%" data-background-position="0% 100%" -->
+<!-- .slide: id="SkycoinAbout" data-background="img/skycoin-logos/Skycoin-Cloud-BW-Horizontal@1x.png" data-background-size="10%" data-background-position="0% 100%" -->
 # Skycoin
 ## How to find us
 
@@ -14,7 +14,7 @@
 ||||
 
 ---
-<!-- .slide: data-background="img/skycoin-logos/Skycoin-Cloud-BW-Horizontal@1x.png" data-background-size="10%" data-background-position="0% 100%" -->
+<!-- .slide: id="Gallery" data-background="img/skycoin-logos/Skycoin-Cloud-BW-Horizontal@1x.png" data-background-size="10%" data-background-position="0% 100%" -->
 # Skycoin
 ## Slide Gallery
 
