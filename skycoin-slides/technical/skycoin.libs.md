@@ -39,13 +39,13 @@ Copyright 2019 Skycoin project
 
 ## The scalability problem
 
-![](img/rsm.scale.png)
+![](../../img/rsm.scale.png)
 
 --
 
 ## Stats of the Bitcoin blockchain
 
-![](img/bitcoin.stats.png)
+![](../../img/bitcoin.stats.png)
 
 --
 
@@ -89,7 +89,7 @@ Copyright 2019 Skycoin project
 
 ##### Hash rate distribution
 
-![](img/slushpool.hashratedist.20171113.png)
+![](../../img/slushpool.hashratedist.20171113.png)
 
 --
 
@@ -117,7 +117,7 @@ Copyright 2019 Skycoin project
 ## Bitcoin - Problems with UTXO
 
 <small>
-![BTC TX c60e4dc5e69c19ff53a45954d8a8996fd9aac6fda317fd7238dec6a482c718cf](img/bitcoin.tx.c60e4dc5e69c19ff53a45954d8a8996fd9aac6fda317fd7238dec6a482c718cf.png)
+![BTC TX c60e4dc5e69c19ff53a45954d8a8996fd9aac6fda317fd7238dec6a482c718cf](../../img/bitcoin.tx.c60e4dc5e69c19ff53a45954d8a8996fd9aac6fda317fd7238dec6a482c718cf.png)
 </small>
 
 - Dust attack
@@ -128,7 +128,7 @@ Copyright 2019 Skycoin project
 
 ## Skycoin UXTX Spending
 
-![UXTX graph](img/skycoin.uxtx.png)
+![UXTX graph](../../img/skycoin.uxtx.png)
 
 - Pruning spent UX is easy
 - No mining, no fee (no mining, no fee ...)
@@ -166,7 +166,7 @@ Copyright 2019 Skycoin project
 
 ##### Proof of burn
 
-![Burn percents Coin Hours](img/skycoin.coinhours.burn.png)
+![Burn percents Coin Hours](../../img/skycoin.coinhours.burn.png)
 
 --
 
@@ -174,7 +174,7 @@ Copyright 2019 Skycoin project
 
 ##### Comparison of number of purchases
 
-![Skycoin Purchases](img/skycoin.hours.example.png)
+![Skycoin Purchases](../../img/skycoin.hours.example.png)
 
 --
 
@@ -182,7 +182,7 @@ Copyright 2019 Skycoin project
 
 ##### After 1 hour
 
-![Skycoin purchase results](img/skycoin.hours.example.1h.png)
+![Skycoin purchase results](../../img/skycoin.hours.example.1h.png)
 
 ---
 
@@ -190,7 +190,7 @@ Copyright 2019 Skycoin project
 
 - No DNS during P2P discovery
 
-![Skycoin P2P protocol](img/sky-p2p-data-messages.svg)
+![Skycoin P2P protocol](../../img/sky-p2p-data-messages.svg)
 
 ---
 
@@ -214,7 +214,7 @@ Copyright 2019 Skycoin project
 
 ## Skycoin core libraries
 
-![Skycoin libraries overview](img/skylibs.overview.png)
+![Skycoin libraries overview](../../img/skylibs.overview.png)
 
 --
 
@@ -350,21 +350,21 @@ Args:
 ## Hardware wallet daemon
 #### finished before product itself
 
-![Skycoin hardware wallet architecture](img/skywallet.overview.png)
+![Skycoin hardware wallet architecture](../../img/skywallet.overview.png)
 
 ---
 
 ## REST API test suite - golang
 #### [TestVersion](https://github.com/skycoin/skycoin/blob/v0.26.0/src/api/integration/integration_test.go#L316-L327) test case @ v0.26.0
 
-![TestVersion test case](img/skycoin.testversion.png)
+![TestVersion test case](../../img/skycoin.testversion.png)
 
 --
 
 ## REST API test suite - golang
 #### [newClient](https://github.com/skycoin/skycoin/blob/v0.26.0/src/api/integration/integration_test.go#L75-L95) @ v0.26.0
 
-![newClient test function](img/skycoin.newclient.png)
+![newClient test function](../../img/skycoin.newclient.png)
 
 ---
 
@@ -521,5 +521,3 @@ public class UnitTest1
 # Thanks for your attention!
 
 ## Questions?
-
-
